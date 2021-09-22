@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xs:element name="SWO">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="Student">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="Name" type="xs:string" />
+            <xs:element name="Committee" type="xs:string"/>
+            <xs:element name="Class" type="xs:string"/>
+            <xs:element name="Stipend" type="xs:decimal"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="Faculty">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="Name" type="xs:string"/>
+            <xs:element name="Designation" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+</xs:schema> 

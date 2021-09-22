@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="SWO.xsl"?>
+<SWO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="SWO.xsd">
+<Student>
+    <Name>Deepak Raj</Name>
+    <Committee>Overall Head</Committee>
+    <Class>BSc CME</Class>
+    <Stipend>10000</Stipend>
+</Student>
+<Faculty>
+    <Name>Father Lijo Thomas</Name>
+    <Designation>Director </Designation>
+</Faculty>
+
+<Student>
+    <Name>Dheenabandhan S</Name>
+    <Committee>Audi </Committee>
+    <Class>BCom Honours</Class>
+    <Stipend>9000</Stipend>
+</Student>
+<Faculty>
+    <Name>Mr Purnananda Bhaskar G</Name>
+    <Designation>Student Welfare Officer</Designation>
+</Faculty>
+
+<Student>
+    <Name>Rahul S</Name>
+    <Committee>Media</Committee>
+    <Class>BCom Honours</Class>
+    <Stipend>9000</Stipend>
+</Student>
+<Faculty>
+    <Name>Mr Donald Paul</Name>
+    <Designation>Asst. Student Welfare Officer</Designation>
+</Faculty>
+
+<Student>
+    <Name>Anjali Balakrishnan</Name>
+    <Committee>Hospitality</Committee>
+    <Class>BSc BCB</Class>
+    <Stipend>9000</Stipend>
+</Student>
+<Faculty>
+    <Name>Mr Prabin V</Name>
+    <Designation>Dance Co- ordinator</Designation>
+</Faculty>
+
+<Student>
+    <Name>Dhanin Gupta</Name>
+    <Committee>Art </Committee>
+    <Class>BSc CME</Class>
+    <Stipend>6000</Stipend>
+</Student>
+<Faculty>
+    <Name>Ms. Anna Reshmy</Name>
+    <Designation>Co-ordinator SWO NCR</Designation>
+</Faculty>
+
+<Student>
+    <Name>Sumana Sainath</Name>
+    <Committee>Creative</Committee>
+    <Class>BSc PME</Class>
+    <Stipend>8000</Stipend>
+</Student>
+<Faculty>
+    <Name>Bhavishya Sajith</Name>
+    <Designation>Co-ordinator SWO Lavasa </Designation>
+</Faculty>
+
+</SWO>
